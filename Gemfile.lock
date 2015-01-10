@@ -32,6 +32,7 @@ GEM
       activesupport (= 4.1.4)
       builder (~> 3.1)
       erubis (~> 2.7.0)
+    active_admin_importable (1.1.2)
     activemodel (4.1.4)
       activesupport (= 4.1.4)
       builder (~> 3.1)
@@ -173,6 +174,7 @@ PLATFORMS
   x86-mingw32
 
 DEPENDENCIES
+  active_admin_importable
   activeadmin!
   coffee-rails (~> 4.0.0)
   devise

@@ -40,3 +40,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin]
 
 gem 'devise'
 gem 'activeadmin', github: 'activeadmin'
+gem 'active_admin_importable'
+#gem 'activeadmin-axlsx'

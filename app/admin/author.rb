@@ -14,5 +14,5 @@ ActiveAdmin.register Author do
   #   permitted
   # end
 
-
+ active_admin_importable
 end
